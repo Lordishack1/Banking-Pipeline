@@ -1,0 +1,31 @@
+[0m21:06:07.231557 [debug] [MainThread]: Got an exception trying to initialize tracking
+
+
+============================== 21:06:07.318114 | d00e7afb-d8c9-4bb7-8aff-37d600622070 ==============================
+[0m21:06:07.318114 [info ] [MainThread]: Running with dbt=1.11.2
+[0m21:06:07.319758 [debug] [MainThread]: running dbt with arguments {'version_check': 'True', 'introspect': 'True', 'use_colors': 'True', 'printer_width': '80', 'write_json': 'True', 'static_parser': 'True', 'log_cache_events': 'False', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'log_format': 'default', 'use_experimental_parser': 'False', 'quiet': 'False', 'no_print': 'None', 'partial_parse': 'True', 'invocation_command': 'dbt init', 'profiles_dir': '/Users/IsaacStertzbach/.dbt', 'debug': 'False', 'send_anonymous_usage_stats': 'True', 'target_path': 'None', 'indirect_selection': 'eager', 'cache_selected_only': 'False', 'warn_error': 'None', 'log_path': 'logs', 'empty': 'None', 'fail_fast': 'False'}
+[0m21:06:30.336876 [debug] [MainThread]: Starter project path: /Users/IsaacStertzbach/Desktop/Coding/Data Engineering Practice/Banking_Project/.venv/lib/python3.12/site-packages/dbt/include/starter_project
+[0m21:06:30.353971 [info ] [MainThread]: 
+Your new dbt project "Banking_Pipeline" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m21:06:30.354574 [info ] [MainThread]: Setting up your profile.
+[0m21:07:04.317078 [debug] [MainThread]: Snowflake adapter: Setting snowflake.connector to ERROR (file logging only)
+[0m21:07:04.318083 [debug] [MainThread]: Snowflake adapter: Setting botocore to ERROR (file logging only)
+[0m21:07:04.318514 [debug] [MainThread]: Snowflake adapter: Setting boto3 to ERROR (file logging only)
+[0m21:12:31.974997 [info ] [MainThread]: Profile Banking_Pipeline written to /Users/IsaacStertzbach/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m21:12:32.009480 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 384.85123, "process_in_blocks": "0", "process_kernel_time": 1.402566, "process_mem_max_rss": "143687680", "process_out_blocks": "0", "process_user_time": 5.232798}
+[0m21:12:32.016125 [debug] [MainThread]: Command `dbt init` succeeded at 21:12:32.015613 after 384.86 seconds
+[0m21:12:32.017983 [debug] [MainThread]: Flushing usage events
