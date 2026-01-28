@@ -1,0 +1,51 @@
+merchant_id,merchant_name,category,city,state
+MERCH1,Merchant_1,Retail,Raleigh,NC
+MERCH2,Merchant_2,Utilities,Nashville,GA
+MERCH3,Merchant_3,Retail,Nashville,SC
+MERCH4,Merchant_4,Utilities,Charlotte,TN
+MERCH5,Merchant_5,Travel,Greenville,GA
+MERCH6,Merchant_6,Utilities,Charlotte,NC
+MERCH7,Merchant_7,Travel,Nashville,TN
+MERCH8,Merchant_8,Food,Atlanta,SC
+MERCH9,Merchant_9,Food,Nashville,GA
+MERCH10,Merchant_10,Utilities,Greenville,SC
+MERCH11,Merchant_11,Utilities,Nashville,NC
+MERCH12,Merchant_12,Travel,Greenville,GA
+MERCH13,Merchant_13,Retail,Greenville,NC
+MERCH14,Merchant_14,Travel,Greenville,NC
+MERCH15,Merchant_15,Retail,Greenville,TN
+MERCH16,Merchant_16,Food,Greenville,SC
+MERCH17,Merchant_17,Fuel,Atlanta,GA
+MERCH18,Merchant_18,Utilities,Charlotte,NC
+MERCH19,Merchant_19,Retail,Raleigh,NC
+MERCH20,Merchant_20,Travel,Charlotte,GA
+MERCH21,Merchant_21,Food,Greenville,NC
+MERCH22,Merchant_22,Retail,Atlanta,TN
+MERCH23,Merchant_23,Travel,Nashville,TN
+MERCH24,Merchant_24,Utilities,Atlanta,TN
+MERCH25,Merchant_25,Utilities,Greenville,TN
+MERCH26,Merchant_26,Online Services,Atlanta,NC
+MERCH27,Merchant_27,Fuel,Atlanta,GA
+MERCH28,Merchant_28,Online Services,Greenville,GA
+MERCH29,Merchant_29,Food,Atlanta,GA
+MERCH30,Merchant_30,Retail,Raleigh,GA
+MERCH31,Merchant_31,Food,Raleigh,SC
+MERCH32,Merchant_32,Travel,Atlanta,GA
+MERCH33,Merchant_33,Utilities,Nashville,SC
+MERCH34,Merchant_34,Online Services,Greenville,SC
+MERCH35,Merchant_35,Online Services,Raleigh,TN
+MERCH36,Merchant_36,Online Services,Nashville,SC
+MERCH37,Merchant_37,Food,Atlanta,NC
+MERCH38,Merchant_38,Utilities,Nashville,SC
+MERCH39,Merchant_39,Retail,Charlotte,TN
+MERCH40,Merchant_40,Travel,Raleigh,SC
+MERCH41,Merchant_41,Retail,Atlanta,NC
+MERCH42,Merchant_42,Food,Greenville,NC
+MERCH43,Merchant_43,Travel,Atlanta,NC
+MERCH44,Merchant_44,Online Services,Greenville,TN
+MERCH45,Merchant_45,Fuel,Atlanta,TN
+MERCH46,Merchant_46,Food,Nashville,GA
+MERCH47,Merchant_47,Food,Nashville,TN
+MERCH48,Merchant_48,Utilities,Nashville,NC
+MERCH49,Merchant_49,Retail,Charlotte,NC
+MERCH50,Merchant_50,Food,Greenville,TN
